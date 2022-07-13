@@ -10,36 +10,36 @@
 
 <h3 align="center">About me</h5>
 
-How old am I and who am I?
+**How old am I and who am I?**
 
-\- 🧍 I'm a 20 year old aspiring developer.
+🧍 I'm a 20 year old aspiring developer.
 
-What do I want to study?
+**What do I want to study?**
 
-\- 👨🎓 I plan to major in computer science from a university in Germany.
+👨🎓 I plan to major in computer science from a university in Germany.
 
-What languages do I know?
+**What languages do I know?**
 
-\- I've mainly programmed in (and have been learning about) Python. However, as of late, I've also started to dive deeper into web-development.
+I've mainly programmed in (and have been learning about) Python. However, as of late, I've also started to dive deeper into web-development.
 
-What topics am I passionate about in the technology field?
+**What topics am I passionate about in the technology field?**
 
-\-  💻 Data science and web-development. I also hope to one day explore game development as well.<br>
-\- ⌨️  Self-hosting, system-administration and scripting.<br>
-\- 🤫🔒 Privacy and security.
+💻 Data science and web-development. I also hope to one day explore game development as well.<br>
+⌨️  Self-hosting, system-administration and scripting.<br>
+🤫🔒 Privacy and security.
 
-What languages do I know?
+**What languages do I know?**
 
-\- 🇬🇧 🇺🇸  English (Native)<br>
-\- 🇵🇰  Urdu (Native)<br>
-\- 🇩🇪  German (C1 certified, currently studying)
+🇬🇧 🇺🇸  English (Native)<br>
+🇵🇰  Urdu (Native)<br>
+🇩🇪  German (C1 certified, currently studying)
 
-What interests do I have outside of programming?
+**What interests do I have outside of programming?**
 
-\- Listening to music.<br>
-\- Reading books (<a href="https://www.goodreads.com/omermikhailk">Goodreads</a>) and watching movies (<a href="https://letterboxd.com/omermikhailk/">Letterboxd</a>).<br>
-\- Going to the gym<br>
+Listening to music.<br>
+Reading books (<a href="https://www.goodreads.com/omermikhailk">Goodreads</a>) and watching movies (<a href="https://letterboxd.com/omermikhailk/">Letterboxd</a>).<br>
+Going to the gym<br>
 
-How do I contact you?
+**How do I contact you?**
 
-\- Feel free to shoot me a DM on Twitter (<a href="https://twitter.com/omermikhailk">@omermikhailk</a>) if you'd like!
+Feel free to shoot me a DM on Twitter (<a href="https://twitter.com/omermikhailk">@omermikhailk</a>) if you'd like!
