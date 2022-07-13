@@ -3,7 +3,7 @@
 <p align="center">
     <a href="https://omermikhailk.dev">Website</a> | 
     <a href="https://twitter.com/omermikhailk">Twitter</a> |
-    <a href="https://twitter.com/omermikhailk">Reddit</a>
+    <a href="https://reddit.com/u/omermikhailk">Reddit</a>
 </p>
 
 ---
@@ -16,7 +16,7 @@ How old am I and who am I?
 
 What do I want to study?
 
-\- 👨🎓 I plan to major in computer science (Informatik) from a university in Germany.
+\- 👨🎓 I plan to major in computer science from a university in Germany.
 
 What languages do I know?
 
@@ -42,4 +42,4 @@ What interests do I have outside of programming?
 
 How do I contact you?
 
-\- Feel free to shoot me a DM on Twitter if you'd like!
+\- Feel free to shoot me a DM on Twitter (@omermikhailk) if you'd like!
