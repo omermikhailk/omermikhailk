@@ -19,7 +19,8 @@ What do I want to study?
 What languages do I know?
 <ul><li>I've mainly programmed in (and have been learning about) Python. However, as of late, I've also started to dive deeper into web-development.</li></ul>
 
-What topics am I passionate about in the technology field?<br>
+What topics am I passionate about in the technology field?
+
 \-  💻 Data science and web-development. I also hope to one day explore game development as well.<br>
 \- ⌨️  Self-hosting, system-administration and scripting.<br>
 \- 🤫🔒 Privacy and security.
