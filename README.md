@@ -8,7 +8,7 @@
 
 ---
 
-<h4 align="center">About me</h5>
+<h3 align="center">About me</h5>
 
 How old am I and who am I?
 
@@ -42,4 +42,4 @@ What interests do I have outside of programming?
 
 How do I contact you?
 
-\- Feel free to shoot me a DM on Twitter (@omermikhailk) if you'd like!
+\- Feel free to shoot me a DM on Twitter (<a href="https://twitter.com/omermikhailk">@omermikhailk</a>) if you'd like!
