@@ -42,4 +42,4 @@ Going to the gym<br>
 
 **How do I contact you?**
 
-Feel free to shoot me a DM on Twitter (<a href="https://twitter.com/omermikhailk">@omermikhailk</a>) if you'd like!
+Feel free to shoot me a DM on Twitter (<a href="https://twitter.com/omermikhailk">@omermikhailk</a>)!
