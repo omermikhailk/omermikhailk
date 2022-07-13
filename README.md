@@ -1,38 +1,38 @@
 <h3 align="center">Hi there 👋, I'm Omer!</h3>
 
 <p align="center">
-    <a href="https://omermikhailk.dev">Website</a>
-    <a href="https://twitter.com/omermikhailk">Twitter</a>
+    <a href="https://omermikhailk.dev">Website</a> | 
+    <a href="https://twitter.com/omermikhailk">Twitter</a> |
     <a href="https://twitter.com/omermikhailk">Reddit</a>
 </p>
 
---
+---
 
 <h5 align="center">About me</h5>
 
 How old am I and who am I?
-- 🧍 I'm a 20 year old aspiring developer.
+-> 🧍 I'm a 20 year old aspiring developer.
 
 What do I want to study?
-- 👨🎓 I plan to major in computer science (Informatik) from a university in Germany.
+-> 👨🎓 I plan to major in computer science (Informatik) from a university in Germany.
 
 What languages do I know?
-- I've mainly programmed in (and have been learnign about) Python. However, as of late, I've also started to dive deeper into web-development.
+-> I've mainly programmed in (and have been learnign about) Python. However, as of late, I've also started to dive deeper into web-development.
 
 What topics am I passionate about in the technology field?
-- 💻 Data science and web-development. I also hope to one day explore game development as well.
-- ⌨️  Self-hosting, system-administration and scripting.
-- 🤫🔒 Privacy and security.
+-> 💻 Data science and web-development. I also hope to one day explore game development as well.
+-> ⌨️  Self-hosting, system-administration and scripting.
+-> 🤫🔒 Privacy and security.
 
 What languages do I know?
-- 🇬🇧 🇺🇸  English (Native)
-- 🇵🇰  Urdu (Native)
-- 🇩🇪  German (C1 certified, currently studying)
+-> 🇬🇧 🇺🇸  English (Native)
+-> 🇵🇰  Urdu (Native)
+-> 🇩🇪  German (C1 certified, currently studying)
 
 What interests do I have outside of programming?
-- Listening to music
-- Reading books (<a href="https://www.goodreads.com/omermikhailk">Goodreads</a>) and watching movies (<a href="https://letterboxd.com/omermikhailk/">Letterboxd</a>).
-- Going to the gym
+-> Listening to music
+-> Reading books (<a href="https://www.goodreads.com/omermikhailk">Goodreads</a>) and watching movies (<a href="https://letterboxd.com/omermikhailk/">Letterboxd</a>).
+-> Going to the gym
 
 How do I contact you?
-- Feel free to shoot me a DM on Twitter if you'd like to!
+-> Feel free to shoot me a DM on Twitter if you'd like to!
