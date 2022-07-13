@@ -11,13 +11,16 @@
 <h4 align="center">About me</h5>
 
 How old am I and who am I?
-<ul><li>🧍 I'm a 20 year old aspiring developer.</li></ul>
+
+\- 🧍 I'm a 20 year old aspiring developer.
 
 What do I want to study?
-<ul><li>👨🎓 I plan to major in computer science (Informatik) from a university in Germany.</li></ul>
+
+\- 👨🎓 I plan to major in computer science (Informatik) from a university in Germany.
 
 What languages do I know?
-<ul><li>I've mainly programmed in (and have been learning about) Python. However, as of late, I've also started to dive deeper into web-development.</li></ul>
+
+\- I've mainly programmed in (and have been learning about) Python. However, as of late, I've also started to dive deeper into web-development.
 
 What topics am I passionate about in the technology field?
 
@@ -26,14 +29,17 @@ What topics am I passionate about in the technology field?
 \- 🤫🔒 Privacy and security.
 
 What languages do I know?
-<ul><li>🇬🇧 🇺🇸  English (Native)</li>
-<li>🇵🇰  Urdu (Native)</li>
-<li>🇩🇪  German (C1 certified, currently studying)</li></ul>
+
+\- 🇬🇧 🇺🇸  English (Native)<br>
+\- 🇵🇰  Urdu (Native)<br>
+\- 🇩🇪  German (C1 certified, currently studying)
 
 What interests do I have outside of programming?
-<ul><li>Listening to music</li>
-<li>Reading books (<a href="https://www.goodreads.com/omermikhailk">Goodreads</a>) and watching movies (<a href="https://letterboxd.com/omermikhailk/">Letterboxd</a>).</li>
-<li>Going to the gym</li></ul>
+
+\- Listening to music.<br>
+\- Reading books (<a href="https://www.goodreads.com/omermikhailk">Goodreads</a>) and watching movies (<a href="https://letterboxd.com/omermikhailk/">Letterboxd</a>).<br>
+\- Going to the gym<br>
 
 How do I contact you?
-<ul><li>Feel free to shoot me a DM on Twitter if you'd like!</li></ul>
+
+\- Feel free to shoot me a DM on Twitter if you'd like!
