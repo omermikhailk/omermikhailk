@@ -8,31 +8,31 @@
 
 ---
 
-<h5 align="center">About me</h5>
+<h4 align="center">About me</h5>
 
 How old am I and who am I?
--> 🧍 I'm a 20 year old aspiring developer.
+<ul><li>🧍 I'm a 20 year old aspiring developer.</li></ul>
 
 What do I want to study?
--> 👨🎓 I plan to major in computer science (Informatik) from a university in Germany.
+<ul><li>👨🎓 I plan to major in computer science (Informatik) from a university in Germany.</li></ul>
 
 What languages do I know?
--> I've mainly programmed in (and have been learnign about) Python. However, as of late, I've also started to dive deeper into web-development.
+<ul><li>I've mainly programmed in (and have been learning about) Python. However, as of late, I've also started to dive deeper into web-development.</li></ul>
 
 What topics am I passionate about in the technology field?
--> 💻 Data science and web-development. I also hope to one day explore game development as well.
--> ⌨️  Self-hosting, system-administration and scripting.
--> 🤫🔒 Privacy and security.
+<ul><li>💻 Data science and web-development. I also hope to one day explore game development as well.</li>
+<li>⌨️  Self-hosting, system-administration and scripting.</li>
+<li>🤫🔒 Privacy and security.</li></ul>
 
 What languages do I know?
--> 🇬🇧 🇺🇸  English (Native)
--> 🇵🇰  Urdu (Native)
--> 🇩🇪  German (C1 certified, currently studying)
+<ul><li>🇬🇧 🇺🇸  English (Native)</li>
+<li>🇵🇰  Urdu (Native)</li>
+<li>🇩🇪  German (C1 certified, currently studying)</li></ul>
 
 What interests do I have outside of programming?
--> Listening to music
--> Reading books (<a href="https://www.goodreads.com/omermikhailk">Goodreads</a>) and watching movies (<a href="https://letterboxd.com/omermikhailk/">Letterboxd</a>).
--> Going to the gym
+<ul><li>Listening to music</li>
+<li>Reading books (<a href="https://www.goodreads.com/omermikhailk">Goodreads</a>) and watching movies (<a href="https://letterboxd.com/omermikhailk/">Letterboxd</a>).</li>
+<li>Going to the gym</li></ul>
 
 How do I contact you?
--> Feel free to shoot me a DM on Twitter if you'd like to!
+<ul><li>Feel free to shoot me a DM on Twitter if you'd like!</li></ul>
