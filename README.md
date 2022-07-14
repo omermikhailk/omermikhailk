@@ -38,7 +38,6 @@ I've mainly been programming in (and have been learning about) Python. However, 
 
 Listening to music.<br>
 Reading books (<a href="https://www.goodreads.com/omermikhailk">Goodreads</a>) and watching movies (<a href="https://letterboxd.com/omermikhailk/">Letterboxd</a>).<br>
-Going to the gym<br>
 
 **How do I contact you?**
 
