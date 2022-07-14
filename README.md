@@ -12,7 +12,7 @@
 
 **How old am I and who am I?**
 
-🧍 I'm a 20 year old aspiring developer.
+🧍 I'm an aspiring, 20 year old developer.
 
 **What do I want to study?**
 
