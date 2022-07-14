@@ -20,7 +20,7 @@
 
 **What languages do I know?**
 
-I've mainly been programming in (and have been learning about) Python. However, as of late, I've also started to dive deeper into web-development.
+I've mainly been programming in (and have been learning about) Python. However, as of late, I've also started to dive deeper into topics such as web-development and functional programming in Haskell.
 
 **What topics am I passionate about in the technology field?**
 
