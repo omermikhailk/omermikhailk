@@ -41,4 +41,4 @@ Reading books (<a href="https://www.goodreads.com/omermikhailk">Goodreads</a>) a
 
 **How do I contact you?**
 
-Feel free to shoot me a DM on Twitter (<a href="https://twitter.com/omermikhailk">@omermikhailk</a>)!
+Feel free to shoot me a DM on Twitter (<a href="https://twitter.com/omermikhailk">@omermikhailk</a>) or email me (<a href="mailto:contact@omermikhailk.dev">contact@omermikhailk.dev</a>)!
