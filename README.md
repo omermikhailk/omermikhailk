@@ -1,12 +1,8 @@
-<h3 align="center">Hi there, I'm Omer!</h3>
-
----
-
 <h3 align="center">About me</h5>
 
-**Who am I and how old am I?**
+**Who am I?**
 
-I'm a second semester computer science student in Germany.
+Hi there, my name's Omer, and I'm a second semester computer science student in Germany.
 
 **What programming languages do I know?**
 
