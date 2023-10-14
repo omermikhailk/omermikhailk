@@ -1,16 +1,25 @@
-### Hi there 👋
+<h3 align="center">Hi there, I'm Omer!</h3>
 
-<!--
-**omermikhailk/omermikhailk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h3 align="center">About me</h5>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Who am I and how old am I?**
+
+I'm a second semester computer science student in Germany.
+
+**What programming languages do I know?**
+
+I'm mainly familiar with Python however I do have some experience with Java as well.
+
+Currently I'm focusing on learning C.
+
+**What topics am I passionate about?**
+
+- Self-hosting, system administration, and scripting
+- Image and video processing (hoping to learn this after having some linear algebra experience)
+
+**What languages can I speak?**
+- 🇬🇧🇺🇸 English (native)
+- 🇵🇰 Urdu (near native)
+- 🇩🇪 German (C1 certified)
